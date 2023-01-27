@@ -1,0 +1,16 @@
+working directory -> staging area -> local repository -> remote repository
+test-project -> git add -> git commit -> git push
+
+file states: tracked, untracked
+
+Commands
+==========
+git status
+git init
+git add file1.txt
+git reset file1.txt //unstage files
+git add             //add all files to stage
+git reset           //unstage old files
+git diff            //CHANGES CONTROL
+git restore text.txt
+

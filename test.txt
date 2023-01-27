@@ -1,0 +1,5 @@
+Versionskontrolle mit Git und GitHub
+
+code . //öffnet VSC mit dem W
+
+cool
