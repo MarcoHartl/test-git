@@ -13,4 +13,3 @@ git add             //add all files to stage
 git reset           //unstage old files
 git diff            //CHANGES CONTROL
 git restore text.txt
-
