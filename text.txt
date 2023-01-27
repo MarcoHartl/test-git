@@ -13,3 +13,15 @@ git add             //add all files to stage
 git reset           //unstage old files
 git diff            //CHANGES CONTROL
 git restore text.txt
+
+//Version CONTROL
+git commit -m "git commands for changes control are added"
+git log                 // how many commits i have
+git log --oneline
+git reset --soft HEAD^  //go back to staging area
+git reset HEAD^         // go back to the working directory
+git reset --hard HEAD^  //delete all changes made
+git checkout asdf
+git checkout main       //everything is back
+git show / git show HEAD / git show commit
+git checkout commit /HEAD number
