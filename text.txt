@@ -25,3 +25,8 @@ git checkout asdf
 git checkout main       //everything is back
 git show / git show HEAD / git show commit
 git checkout commit /HEAD number
+
+git remote -v
+git remote add origin https://github.com/MarcoHartl/test-git.git
+git push -u origin master
+git pull origin master
